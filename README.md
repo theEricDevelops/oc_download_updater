@@ -5,8 +5,10 @@ An OpenCart module that iterates through the downloads database and automaticall
 
 # Files Involved:
 
-	* File1.php
-	* File2.php
+	* admin/controller/tool/download_updater.php
+	* admin/language/english/tool/download_updater.php
+	* admin/model/tool/download_updater.php
+	* admin/view/template/tool/download_updater.php
 
 # How to contact me:
 

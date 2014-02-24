@@ -3,11 +3,18 @@ Files Involved & Their Roles
 
 ## admin/controller/tool/download_updater.php
 
+	* 
 
 
 ***
 
 ## admin/model/tool/download_updater.php
+
+The model file contains the sql statements to:
+
+	* Find the downloads
+	* Find products that match the downloads
+	* Update the products
 
 
 ***
