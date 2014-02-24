@@ -14,10 +14,10 @@ If, for some reason, you want to get in touch with me outside of github, feel fr
 
 ##Social Media!
 
-Github:   [github.com/trafficlightme](http://www.github.com/trafficlightme)
-My Blog:  [ericbaker.me](http://www.ericbaker.me "ericbaker.me")
-Facebook: [facebook.com/youvereachederic](http://www.facebook.com/youvereachederic)
-Twitter:  [twitter.com/e_baker](http://www.twitter.com/e_baker)
+Github:   [github.com/trafficlightme](http://www.github.com/trafficlightme)  
+My Blog:  [ericbaker.me](http://www.ericbaker.me "ericbaker.me")  
+Facebook: [facebook.com/youvereachederic](http://www.facebook.com/youvereachederic)  
+Twitter:  [twitter.com/e_baker](http://www.twitter.com/e_baker)  
 LinkedIn: [linkedin.com/youvereachederic](http://www.linkedin.com/in/youvereachederic)
 
 # License:
