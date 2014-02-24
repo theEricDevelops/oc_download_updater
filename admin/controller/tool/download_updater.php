@@ -1,6 +1,6 @@
 <?php
 #####################################################################################
-#  Module CSV IMPORT PRO for Opencart 1.5.x From HostJars opencart.hostjars.com 	#
+#  Module Download Updater for Opencart 1.5.x From Eric Baker ericbaker.me 			#
 #####################################################################################
 
 class ControllerToolDownloadUpdater extends Controller {
