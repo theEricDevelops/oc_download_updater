@@ -12,7 +12,7 @@ An OpenCart module that iterates through the downloads database and automaticall
 
 # How to contact me:
 
-If, for some reason, you want to get in touch with me outside of github, feel free to email me via [eric@trafficlight.me](mailto:eric@trafficlight.me).
+If, for some reason, you want to get in touch with me outside of github, feel free to email me via [eric@ericbaker.me](mailto:eric@ericbaker.me).
 
 ##Social Media!
 
